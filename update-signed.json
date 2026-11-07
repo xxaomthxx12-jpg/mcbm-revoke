@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "ts": 1794061328,
-  "latest": "1.6.1",
+  "ts": 1794063651,
+  "latest": "1.7.0",
   "min": "",
   "graceDays": 3,
-  "url": "https://discord.gg/nqq9YSSJ6",
-  "notes": "ยินดีบริการให้เช่าโปรแกรมเปิด BOT ประจำเซิฟเวอร์ mc-zero.net",
-  "sig": "XYghsDI_iVYumeK2Enb8GF8LsHJuDqMGsfOdbImqv_kiC7ngnK6USmVmKPDzr82_yC6wzhVMQ12LGteAt78EBA"
+  "url": "https://discord.gg/FUnQj26fKq",
+  "notes": "เตรียมตัวอัพเดทเวอร์ชันถัดไปใน เร็วๆนี้",
+  "sig": "uNvvEm8OC8cCqcDMzsdgpP4psvqlIATPybdrtRQk-ZzAR1Qfh2iIwaxVVcojY8dyp3It5x8vxV0lW_1rySb5DA"
 }
