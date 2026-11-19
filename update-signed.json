@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "ts": 1795024930,
-  "latest": "3.0.22",
-  "min": "3.0.10",
-  "graceDays": 3,
-  "url": "https://discord.gg/NXUj89JHBB",
-  "notes": "เวอร์ชันใหม่มาแล้ว สามารถดาวน์โหลดได้ที่ลิ้งดาวน์โหลดครับ 🫡",
-  "sig": "a2p3Vv5sssSn0WDc7eMBtUC55oopZQ_t22ygI3KPRtuR6mEdG9gFa2csxfxrPHd57-QWbV2yuOVVljRYWb-IBg"
+  "ts": 1795120026,
+  "latest": "3.1.0",
+  "min": "3.1.0",
+  "graceDays": 1,
+  "url": "https://drive.google.com/file/d/1iEMFYqKFOJKVdbrJthuZ5PrbE90KKpOK/view",
+  "notes": "⚠️ บังคับอัปเดตภายใน 24 ชั่วโมง หากไม่อัปเดต โปรแกรมจะถูกล็อกทันทีจนกว่าจะอัปเดตเสร็จ",
+  "sig": "lyZF7uw-t-2RQkpOLtN7wqOoXEsjRor-hDLffZZr4T2dRsiqV17RP_PYdXvrjvvdZQAH3YILswBYvLr_1-pUBQ"
 }
