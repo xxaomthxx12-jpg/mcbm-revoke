@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "ts": 1795120026,
-  "latest": "3.1.0",
-  "min": "3.1.0",
-  "graceDays": 1,
-  "url": "https://drive.google.com/file/d/1iEMFYqKFOJKVdbrJthuZ5PrbE90KKpOK/view",
-  "notes": "⚠️ บังคับอัปเดตภายใน 24 ชั่วโมง หากไม่อัปเดต โปรแกรมจะถูกล็อกทันทีจนกว่าจะอัปเดตเสร็จ",
-  "sig": "lyZF7uw-t-2RQkpOLtN7wqOoXEsjRor-hDLffZZr4T2dRsiqV17RP_PYdXvrjvvdZQAH3YILswBYvLr_1-pUBQ"
+  "ts": 1795378785,
+  "latest": "4.0.1",
+  "min": "4.0.1",
+  "graceDays": 3,
+  "url": "https://drive.google.com/file/d/1hpeLvlz5YQOZ7qjOlMWlc9Yjttvucaa-/view?usp=sharing",
+  "notes": "⚠️ บังคับอัปเดตภายใน 72 ชั่วโมง หากไม่อัปเดต โปรแกรมจะถูกล็อกทันทีจนกว่าจะอัปเดตเสร็จ",
+  "sig": "AGQ_SkPJpN9RH708lTCX8d2dM1z3WIb3kHfTItvoDhzoIQhTo5TP6ZAXUo3Fks0wHCmTLGHuahq-gSZLUArMDQ"
 }
